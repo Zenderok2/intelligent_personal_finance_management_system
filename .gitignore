@@ -1,0 +1,36 @@
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.gradle/
+
+# Build artifacts
+build/
+app/build/
+captures/
+.cxx/
+.externalNativeBuild/
+outputs/
+
+# Local Android config
+local.properties
+
+# Gradle properties / secrets
+gradle.properties
+gradle-local.properties
+secrets.properties
+
+# Firebase / API configs
+app/google-services.json
+app/src/main/java/com/example/project5/utils/Constants.kt
+
+# Keystores / certificates
+*.jks
+*.keystore
+*.pem
+*.p12
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

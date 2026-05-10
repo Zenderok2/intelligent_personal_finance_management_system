@@ -1,0 +1,130 @@
+<resources>
+
+    <string name="app_name">Сканер чеков</string>
+
+    <string name="select_image">Выбрать изображение</string>
+    <string name="scan_receipt">Сканировать чек</string>
+    <string name="show_statistics">Показать статистику</string>
+
+    <string name="total_amount">Общая сумма: %1$s</string>
+    <string name="receipt_count">Количество чеков: %1$d</string>
+
+    <string name="clear_data">Очистить все данные</string>
+    <string name="back">Назад</string>
+
+    <string name="statistics">Статистика</string>
+    <string name="category_details">Детализация по категориям</string>
+    <string name="no_data">Нет данных</string>
+    <string name="receipts_not_added">Чеки не добавлены</string>
+
+    <string name="photo_taken">Фото сделано</string>
+    <string name="image_loaded">Изображение загружено</string>
+    <string name="error_loading_image">Ошибка загрузки: %1$s</string>
+
+    <string name="select_receipt_first">Сначала выберите чек</string>
+    <string name="select_source">Выберите источник</string>
+    <string name="take_photo">Сделать фото</string>
+    <string name="choose_from_gallery">Выбрать из галереи</string>
+    <string name="image_not_selected">Изображение не выбрано</string>
+
+    <string name="recognizing_text">Распознавание текста…</string>
+    <string name="ocr_failed">Не удалось распознать текст</string>
+    <string name="ocr_ready_analyzing">OCR готов. Анализ чека…</string>
+    <string name="error_occurred">Ошибка: %1$s</string>
+
+    <string name="receipt_saved">🧾 Чек сохранён!</string>
+    <string name="receipt_total">ИТОГ: %1$.2f ₽</string>
+
+    <string name="products">Товары:</string>
+    <string name="product_item">• %1$s — %2$s ₽ — [%3$s]</string>
+
+    <string name="forecast_result">Прогноз: %1$s</string>
+    <string name="rating_format">%1$d / 100</string>
+
+    <string name="achievements_title">Достижения</string>
+    <string name="achievements_progress">Ваш прогресс</string>
+
+    <string name="budget_title">Бюджеты</string>
+    <string name="add_budget">Добавить бюджет</string>
+    <string name="your_budgets">Ваши бюджеты</string>
+    <string name="save">Сохранить</string>
+    <string name="limit_hint">Лимит (₽)</string>
+
+    <string name="forecast_title">Прогноз</string>
+    <string name="loading">Загрузка…</string>
+    <string name="ai_analysis">AI анализ</string>
+
+    <string name="welcome">Добро пожаловать 👋</string>
+    <string name="login_subtitle">Войдите в аккаунт</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="register">Создать аккаунт</string>
+
+    <string name="app_title">Финансовый помощник</string>
+    <string name="app_subtitle">Сканирование и анализ чеков</string>
+
+    <string name="receipt_image">Изображение чека</string>
+    <string name="select">Выбрать</string>
+    <string name="scan">Распознать</string>
+
+    <string name="quick_actions">Быстрые действия</string>
+    <string name="budget">Бюджет</string>
+    <string name="forecast">Прогноз</string>
+    <string name="profile">Профиль</string>
+    <string name="achievements">Достижения</string>
+    <string name="recommendations">Советы</string>
+
+    <string name="ocr_result">Результат распознавания</string>
+    <string name="select_image_hint">Выберите изображение чека…</string>
+
+    <string name="profile_title">Профиль</string>
+    <string name="financial_rating">Финансовый рейтинг</string>
+    <string name="rating_value">0 / 100</string>
+    <string name="rating_description">Описание</string>
+    <string name="get_rating">Узнать рейтинг</string>
+    <string name="logout">Выйти</string>
+
+    <string name="ai_recommendations_title">AI рекомендации</string>
+    <string name="ai_personal_advice">🤖 Персональный совет</string>
+    <string name="ai_loading">Анализируем ваши расходы…</string>
+
+    <string name="statistics_title">Статистика</string>
+    <string name="total_amount_value">0 ₽</string>
+    <string name="expenses_by_category">📊 Расходы по категориям</string>
+    <string name="details">Детализация</string>
+    <string name="categories_placeholder">Категории…</string>
+
+    <string name="achievement_title">Название</string>
+    <string name="achievement_description">Описание</string>
+    <string name="achievement_icon">Иконка достижения</string>
+
+    <string name="budget_category">Категория</string>
+    <string name="budget_limit">%1$s / %2$s</string>
+
+    <string name="recommendation_icon">💡</string>
+    <string name="recommendation_title">Заголовок</string>
+    <string name="recommendation_message">Описание рекомендации</string>
+
+    <string name="financial_assistant_title">Финансовый помощник</string>
+    <string name="scanning_subtitle">Сканирование и анализ чеков</string>
+
+    <string name="scan_receipt_title">Сканирование чека</string>
+    <string name="receipt_image_description">Изображение чека</string>
+
+    <string name="select_button">Выбрать</string>
+    <string name="recognize_button">Распознать</string>
+
+    <string name="quick_actions_title">Быстрые действия</string>
+    <string name="tips">Советы</string>
+
+    <string name="ocr_result_title">Результат распознавания</string>
+    <string name="ocr_placeholder">Выберите изображение чека…</string>
+
+    <string name="total_amount_rub">Общая сумма: %1$.2f ₽</string>
+    <string name="stats_unavailable">Статистика недоступна</string>
+    <string name="expenses">Расходы</string>
+
+    <string name="next_month">Прогноз на следующий месяц</string>
+
+</resources>

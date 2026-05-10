@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomEditText" parent="Widget.Material3.TextInputEditText.OutlinedBox">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textColorHint">#666666</item>
+    </style>
+
+    <style name="CustomTextInput" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="hintTextColor">#666666</item>
+        <item name="boxStrokeColor">#000000</item>
+    </style>
+
+</resources>
